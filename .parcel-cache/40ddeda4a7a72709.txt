@@ -7,7 +7,7 @@
 63C:\xampp\htdocs\3 JS\first\node_modules\htmlnano\lib\helpers.js133383518287648585 0
 66C:\xampp\htdocs\3 JS\first\node_modules\css-select\lib\sort.js.map133383518294295092 0
 90C:\xampp\htdocs\3 JS\first\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133383518297919793 0
-31C:\xampp\htdocs\3 JS\first\dist133383562828177926 1
+31C:\xampp\htdocs\3 JS\first\dist133383722704070352 1
 59C:\xampp\htdocs\3 JS\first\node_modules\@swc\types\index.ts133383518290900523 0
 48C:\xampp\htdocs\3 JS\first\node_modules\entities133383518288789024 1
 111C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\tokenizer\index.js133383518330277303 0
@@ -47,7 +47,7 @@
 68C:\xampp\htdocs\3 JS\first\node_modules\@parcel\transformer-svg\test133383518301950187 1
 60C:\xampp\htdocs\3 JS\first\node_modules\js-yaml\package.json133383518291404176 0
 55C:\xampp\htdocs\3 JS\first\node_modules\three\README.md133383520511201186 0
-37C:\xampp\htdocs\3 JS\first\index.html133383520110229314 0
+37C:\xampp\htdocs\3 JS\first\index.html133383592737703455 0
 60C:\xampp\htdocs\3 JS\first\node_modules\svgo\lib\svgo\coa.js133383518288126866 0
 86C:\xampp\htdocs\3 JS\first\node_modules\three\examples\jsm\renderers\common\Backend.js133383520492251331 0
 70C:\xampp\htdocs\3 JS\first\node_modules\css-select\lib\attributes.d.ts133383518295158973 0
@@ -1382,7 +1382,7 @@
 105C:\xampp\htdocs\3 JS\first\node_modules\three\src\renderers\shaders\ShaderChunk\alphamap_fragment.glsl.js133383520490328323 0
 49C:\xampp\htdocs\3 JS\first\node_modules\json5\lib133383518290347070 1
 106C:\xampp\htdocs\3 JS\first\node_modules\three\src\renderers\shaders\ShaderChunk\alphatest_fragment.glsl.js133383520490368335 0
-53C:\xampp\htdocs\3 JS\first\dist\index.eec845d5.js.map133383562828177926 0
+53C:\xampp\htdocs\3 JS\first\dist\index.eec845d5.js.map133383722704050334 0
 127C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\pseudo-selectors\subselects.d.ts133383518328142801 0
 95C:\xampp\htdocs\3 JS\first\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt133383518301675564 0
 71C:\xampp\htdocs\3 JS\first\node_modules\caniuse-lite\data\regions\DK.js133383518304712051 0
@@ -6600,7 +6600,7 @@
 131C:\xampp\htdocs\3 JS\first\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json133383518335115675 0
 114C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\lang.js133383518330327468 0
 119C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133383518330997941 0
-49C:\xampp\htdocs\3 JS\first\dist\index.eec845d5.js133383562828158067 0
+49C:\xampp\htdocs\3 JS\first\dist\index.eec845d5.js133383722703950330 0
 121C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133383518331103560 0
 117C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\slotted.js133383518331671741 0
 132C:\xampp\htdocs\3 JS\first\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133383518331163571 0
@@ -6973,5 +6973,5 @@
 53C:\xampp\htdocs\3 JS\first\node_modules\.bin\svgo.cmd133383518340936444 0
 53C:\xampp\htdocs\3 JS\first\node_modules\.bin\svgo.ps1133383518340936444 0
 67C:\xampp\htdocs\3 JS\first\node_modules\.bin\update-browserslist-db133383518340936444 0
-40C:\xampp\htdocs\3 JS\first\js\scripts.js133383562826576774 0
-42C:\xampp\htdocs\3 JS\first\dist\index.html133383562534905573 0
+40C:\xampp\htdocs\3 JS\first\js\scripts.js133383722702739236 0
+42C:\xampp\htdocs\3 JS\first\dist\index.html133383592739065872 0
